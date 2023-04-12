@@ -1,2 +1,2 @@
 # bios626_midterm
-just use Rstudio to run the script and the result will be generated directly
+Put the training and testing data under the same directory with midterm.R and use Rstudio to run the script. The result will be generated directly
